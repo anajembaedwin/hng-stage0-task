@@ -27,7 +27,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/hng-stage0-task.git
+   git clone https://github.com/anajembaedwin/hng-stage0-task
    ```
 
 2. **Navigate to the project directory:**
