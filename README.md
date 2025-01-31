@@ -78,7 +78,7 @@ The API returns a JSON response with the following fields:
 ## Deployment
 The API is deployed to a publicly accessible endpoint using [Render](https://render.com). You can access the live API here:
 
-**Live API URL:** [https://hng-stage0-task.onrender.com](https://hng-stage0-task.onrender.com)
+**Live API URL:** [https://hng-stage0-task-w2s5.onrender.com/](https://hng-stage0-task-w2s5.onrender.com/)
 
 ---
 
